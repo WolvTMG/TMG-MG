@@ -21,7 +21,7 @@ def again():
         score = 0
         list = []
         main()
-    elif answer == 'no' or answer == 'nah' or answer == 'naah' or answer == 'nein' or answer == 'nien' or answer == 'nahh':
+    elif answer == 'no' or answer == 'nah' or answer == 'naah' or answer == 'nein' or answer == 'nahh':
         print("Thanks for playing!")
         time.sleep(2)
         sys.exit()
